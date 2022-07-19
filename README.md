@@ -1,6 +1,7 @@
-## Hii :) My name is Micaela and I'm new in the field
+### Hii :) My name is Micaela and I'm new in the field
 
- 📖 Aprendendo HTML e CSS
+ 💻 Aprendendo HTML e CSS
+
  
  <div align="justify">
  <span><img height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/109560619/179646514-dcdec03b-be78-4db9-8ec0-36142882ca41.gif"></span>
@@ -10,7 +11,7 @@
 ##
 
 <div>
-  <a href="https://github.com/micapareddes">
+ <a href="https://github.com/micapareddes"></a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="28" width="85" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -18,3 +19,9 @@
 </div>
 
 ![Snake animation](https://github.com/micapareddes/micapareddes/blob/output/github-contribution-grid-snake.svg)
+
+
+## Languages✨
+ - Falo portugues
+ - Hablo español
+ - English
