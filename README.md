@@ -17,4 +17,4 @@
   <img align="center" alt="CSS3" height="28" width="85" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-  
+  ![Snake animation](https://github.com/micapareddes/micapareddes/blob/output/github-contribution-grid-snake.svg)
