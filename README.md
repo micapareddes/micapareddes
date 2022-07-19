@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/micapareddes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micapareddes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micapareddes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=micapareddes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micapareddes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="28" width="85" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -14,5 +14,4 @@
 </div>
   
  
-  ![gif (1)](https://user-images.githubusercontent.com/109560619/179645125-891700dc-0db4-410c-8d45-433e6873e51b.gif)
 
