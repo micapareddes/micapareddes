@@ -1,4 +1,4 @@
-### Oii :) Me chamo Micaela e estou iniciando na área
+## Hii :) My name is Micaela and I'm new in the field
 
  📖 Aprendendo HTML e CSS
  
