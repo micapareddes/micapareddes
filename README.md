@@ -1,6 +1,6 @@
 ### Hii :) My name is Micaela and I'm new in the field
 
- 💻 Aprendendo CSS e JavaScript
+ 💻 Learning CSS and JavaScript
 
  
  <div align="justify">
