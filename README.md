@@ -1,6 +1,6 @@
 ### Hii :) My name is Micaela and I'm new in the field
 
- 💻 Learning CSS and JavaScript
+ 💻 Learning JavaScript and Python
 
  
  <div align="justify">
@@ -14,8 +14,8 @@
  <a href="https://github.com/micapareddes"></a>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="28" width="85" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS3" height="28" width="85" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="HTML5" height="33" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/HTML.svg">
+  <img align="center" alt="CSS3" height="33" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/CSS.svg">
 </div>
 
 ![Snake animation](https://github.com/micapareddes/micapareddes/blob/output/github-contribution-grid-snake.svg)
