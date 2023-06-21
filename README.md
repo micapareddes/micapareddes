@@ -1,6 +1,6 @@
 ### Hii :) My name is Micaela and I'm new in the field
 
- 💻 Learning JavaScript and Python
+ 💻 Learning Python
 
  
  <div align="justify">
