@@ -24,4 +24,4 @@
 ## Languages✨
  - Falo portugues
  - Hablo español
- - English
+ - Speak English
