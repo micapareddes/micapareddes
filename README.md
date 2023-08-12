@@ -1,24 +1,22 @@
-### Hii :) My name is Micaela and I'm new in the field
+## Hii :) Welcome to my profile! 
 
- 💻 Learning JavaScript and Python
-
+ 💻 At the moment I'm improving my Python skills
  
- <div align="justify">
- <span><img height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/109560619/179646514-dcdec03b-be78-4db9-8ec0-36142882ca41.gif"></span>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micapareddes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- </div>
-
-##
-
-<div>
- <a href="https://github.com/micapareddes"></a>
-</div>
+ ## 
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="33" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/HTML.svg">
   <img align="center" alt="CSS3" height="33" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/CSS.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+##
+## Contact me here! 
+
+  <a href = "mailto:micapareddes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/micaela-paredes-9a6160248" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 ## Languages✨
- - Falo portugues
- - Hablo español
- - Speak English
+ - Fluent Portuguese
+ - Native Spanish
+ - Fluent English
