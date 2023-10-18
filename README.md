@@ -1,6 +1,6 @@
 ## Hii :) Welcome to my profile! 
 
-At the moment I'm learning react :)
+At the moment I'm learning react
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="33" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/HTML.svg">
   <img align="center" alt="CSS3" height="33" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/CSS.svg">
