@@ -1,8 +1,8 @@
-<h2 align="center">Hii, I'm Micaela Paredes 👋</h2>
+<h2 align="center">Hii, I'm Micaela 👋</h2>
 
 <p align="center">
-  <b>Full stack developer, frontend-focused, with a design background.</b><br>
-  Brazil · Open to remote
+  Software Engineer focused on building intuitive, scalable products at the intersection of engineering, design, and user experience. </br>
+  🇧🇷 Brazil • Open to Remote
 </p>
 
 <p align="center">
