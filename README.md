@@ -14,7 +14,7 @@ understand the product as a whole, because understanding it end to end helps me 
 ### 📩 micapareddes@gmail.com
 
 
-[Portfolio](#) · [LinkedIn](https://www.linkedin.com/in/micaela-paredes-9a6160248/) · [Behance](https://www.behance.net/micapareddes) 
+[Portfolio](https://portfolio-2026-ashen-five.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/micaela-paredes-9a6160248/) · [Behance](https://www.behance.net/micapareddes) 
 
 </div>
 
