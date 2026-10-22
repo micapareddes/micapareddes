@@ -1,10 +1,10 @@
 <div align="center">
 
 ### Hi, I'm Mica! 
-#### A Software Engineer
+#### A Frontend developer
 
 I use my design background to my advantage when I build.
-My strength is frontend, but I'm a full-stack engineer who always looks to
+My strength is frontend, but I'm a full-stack developer who always looks to
 understand the product as a whole, because understanding it end to end helps me build better.
 
 `React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Node.js` · `Django`
